@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"config_projet","Source":"./modules/config","Dir":"modules/config"},{"Key":"documentation","Source":"./modules/documentation","Dir":"modules/documentation"},{"Key":"pipeline_etl","Source":"./modules/pipeline","Dir":"modules/pipeline"}]}

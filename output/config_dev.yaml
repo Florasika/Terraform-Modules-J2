@@ -1,0 +1,4 @@
+projet: etl_portfolio
+environnement: dev
+version: 1.0.0
+cree_par: "Terraform Module config"

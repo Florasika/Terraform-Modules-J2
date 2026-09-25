@@ -1,0 +1,1 @@
+{"base_de_donnees":{"host":"localhost","nom":"etl_portfolio_dev","port":5432},"config_source":"./output/config_dev.json","pipeline_id":"etl_portfolio-dev-etl","retries":3,"schedule":"0 6 * * *","timeout_min":30}
